@@ -1,14 +1,14 @@
 /******* Customized Bootstrap ********/
 
-$primary: #ff0038;
+$primary: #fddb27ff;
 $secondary: #e93c05;
 $tertiary: #555555;
 $light: #dfe4fd;
 $dark: #011a41;
 
-$font-family-base: 'Open Sans', sans-serif;
+$font-family-base: "Open Sans", sans-serif;
 
-$headings-font-family: 'Jost', sans-serif;
+$headings-font-family: "Jost", sans-serif;
 
 $body-color: $tertiary;
 
@@ -34,4 +34,4 @@ $link-decoration: none;
 
 $enable-negative-margins: true;
 
-@import 'bootstrap/scss/bootstrap';
+@import "bootstrap/scss/bootstrap";
